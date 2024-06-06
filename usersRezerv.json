@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Roman",
+		"surname": "Pupkin"
+	},
+	{
+		"id": 2,
+		"name": "Pavel",
+		"surname": "Pupkin"
+	},
+	{
+		"id": 3,
+		"name": "Kur",
+		"surname": "Kurich"
+	},
+	{
+		"id": 4,
+		"name": "F0len",
+		"surname": "Bestovich"
+	},
+	{
+		"id": 5,
+		"name": "kurt",
+		"surname": "cobain"
+	},
+	{
+		"id": 6,
+		"name": "cob",
+		"surname": "kurtain"
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+			"id": 1,
+			"name": "Иван Иванов",
+			"email": "ivan.ivanov@example1.com",
+			"age": 30
+	},
+	{
+			"id": 2,
+			"name": "Петр Петров",
+			"email": "petr.petrov@example2.com",
+			"age": 25
+	},
+	{
+			"id": 3,
+			"name": "Сергей Сергеев",
+			"email": "sergey.sergeev@example1.com",
+			"age": 35
+	},
+	{
+			"id": 4,
+			"name": "Александр Александров",
+			"email": "alexander.aleksandrov@example3.com",
+			"age": 40
+	},
+	{
+			"id": 5,
+			"name": "Дмитрий Дмитриев",
+			"email": "dmitry.dmitriev@example4.com",
+			"age": 28
+	},
+	{
+			"id": 6,
+			"name": "Николай Николаев",
+			"email": "nikolay.nikolaev@example5.com",
+			"age": 32
+	},
+	{
+			"id": 7,
+			"name": "Анна Анновна",
+			"email": "anna.annovna@example6.com",
+			"age": 27
+	},
+	{
+			"id": 8,
+			"name": "Елена Еленовна",
+			"email": "elena.elenovna@example7.com",
+			"age": 31
+	},
+	{
+			"id": 9,
+			"name": "Ольга Ольговна",
+			"email": "olga.olgovna@example8.com",
+			"age": 29
+	},
+	{
+			"id": 10,
+			"name": "Мария Мариевна",
+			"email": "maria.mariyevna@example9.com",
+			"age": 33
+	},
+	{
+			"id": 11,
+			"name": "Виктор Викторович",
+			"email": "viktor.viktorovich@example10.com",
+			"age": 36
+	},
+	{
+			"id": 12,
+			"name": "Ирина Ириновна",
+			"email": "irina.irinovna@example11.com",
+			"age": 26
+	},
+	{
+			"id": 13,
+			"name": "Татьяна Татьянишна",
+			"email": "tatyana.tatyanishna@example12.com",
+			"age": 34
+	},
+	{
+			"id": 14,
+			"name": "Светлана Светлановна",
+			"email": "svetlana.svetlanovna@example13.com",
+			"age": 37
+	},
+	{
+			"id": 15,
+			"name": "Евгений Евгеньевич",
+			"email": "evgeny.evgenievich@example14.com",
+			"age": 38
+	}
+]
